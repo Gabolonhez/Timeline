@@ -12,5 +12,5 @@ Um projeto de linha do tempo entre 2 ou mais pessoas, para recordar momentos mar
 - Git e Github
 
 ## 🏷️ Layout
-O layout é desenvolvido de acordo com as preferências da pessoas, pórem, há um layout definido já usado como base.
+O layout é desenvolvido de acordo com as preferências da pessoa, pórem, há um layout definido usado como base.
 
