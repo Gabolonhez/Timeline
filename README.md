@@ -1,5 +1,5 @@
 <p align="center">
-  ![image](https://github.com/Gabrieltr1/Us/assets/125428490/6bcbf97f-b641-4758-882c-a5a24d07569b)
+  <img width=20% src="https://github.com/Gabrieltr1/Us/assets/125428490/6bcbf97f-b641-4758-882c-a5a24d07569b"(https://github.com/Gabrieltr1/Us/assets/125428490/6bcbf97f-b641-4758-882c-a5a24d07569b)/>
 </p>
 
 ## 🖥️ Projeto
