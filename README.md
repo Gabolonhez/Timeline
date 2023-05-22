@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Um projeto de linha do tempo "timeline" entre 2 ou mais pessoas, para recordar momentos marcantes em forma de site.
+- Um projeto de linha do tempo "timeline" entre 2 ou mais pessoas, para recordar momentos marcantes em forma de site.
 
 ## 🚀 Tecnologias
 
