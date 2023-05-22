@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/favicon.png" alt="Demonstração do projeto" width="100%" />
+  ![image](https://github.com/Gabrieltr1/Us/assets/125428490/6bcbf97f-b641-4758-882c-a5a24d07569b)
 </p>
 
 ## 🖥️ Projeto
@@ -13,3 +13,4 @@ Um projeto de linha do tempo entre 2 ou mais pessoas, para recordar momentos mar
 
 ## 🏷️ Layout
 O layout é desenvolvido de acordo com as preferências da pessoas, pórem, há um layout definido já usado como base.
+
