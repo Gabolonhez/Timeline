@@ -3,17 +3,15 @@
 </p>
 
 # Timeline
-
 ![image](https://github.com/user-attachments/assets/5b24e817-7461-4c0b-a5fc-2dd122b2b9ba)
 
 ## 📑 Descrição
 Esse é um projeto de linha do tempo "timeline" entre 2 ou mais pessoas, para recordar momentos marcantes em forma de site.
 
 ## 💻 Tecnologias 
-- HTML
-- CSS
-- Git e Github
+- `HTML`
+- `CSS`
 
 ## 🏷️ Layout
-O layout é desenvolvido de acordo com as preferências da pessoa, pórem, há um layout definido usado como base.
+O layout é desenvolvido de acordo com as preferências da pessoa, pórem, há um layout definido utilizado como base.
 
